@@ -1,0 +1,85 @@
+================================================================================
+                               COMBOCRAFT v3.1
+                         [ Fastest Cracking Tool ]
+================================================================================
+
+DEVELOPED BY:
+- @rzadi
+- @MMMajharulIslam
+
+GITHUB REPOSITORY:
+https://github.com/nodilabu-afk/combocraft
+
+================================================================================
+                                 WHATS NEW?
+================================================================================
+
+[+] v3.1 UPDATE LOG:
+
+1. NEW EXTRACTION MODES:
+   - Added "User:Pass" Mode: Extracts strictly Username:Password combos (ignores emails).
+   - Added "Mixed" Mode: A powerful catch-all that extracts Emails, Numbers, and Usernames simultaneously into a clean list.
+
+2. UI OVERHAUL (HACKER THEME):
+   - Complete redesign with a "Cyber-Warfare" aesthetic.
+   - Deep black backgrounds with neon red (#FF003C) accents.
+   - Terminal-style monospace fonts (Consolas) for a professional look.
+   - New status indicators and animated buttons.
+
+3. PROXY SCRAPER IMPROVEMENTS:
+   - Fixed the progress bar glitch; now displays smooth, accurate progress.
+   - Optimized threading for faster scraping from multiple sources.
+   - Auto-Loop function is now more stable.
+
+4. AUTO-UPDATE SYSTEM:
+   - Integrated a smart update checker.
+   - Checks the GitHub repository for new versions automatically.
+   - "Download Update" button appears directly in the app if a new version is found.
+
+5. PERFORMANCE:
+   - Optimized file reading for large .txt and .gz files.
+   - Reduced memory usage during heavy scraping tasks.
+
+================================================================================
+                                  FEATURES
+================================================================================
+
+[ MODE 1 ] Email:Pass Extractor
+   - Filters and saves only valid Email:Password combinations.
+
+[ MODE 2 ] Number:Pass Extractor
+   - Filters and saves numeric-only accounts (e.g., phone numbers).
+
+[ MODE 3 ] User:Pass Extractor (Strict)
+   - Filters and saves strictly Username:Password combos.
+   - Automatically removes lines containing email addresses.
+
+[ MODE 4 ] Mixed Mode (Universal)
+   - The ultimate harvester. Grabs Emails, Usernames, and Numbers all at once.
+   - Saves them into a single, clean "Mixed_Combos" folder.
+
+[ MODE 5 ] Proxy Scraper & Checker
+   - Scrapes HTTP, SOCKS4, and SOCKS5 proxies from premium sources.
+   - Built-in checker verifies live proxies instantly.
+   - "Auto Loop" mode scrapes fresh proxies every 2 minutes automatically.
+
+[ MODE 6 ] Cookie Sorter
+   - Scans log files for Netscape/JSON cookies based on your keywords.
+   - Sorts them into organized folders.
+
+[ TOOLS ] Telegram Forwarder (Watchdog)
+   - Monitors a target folder in real-time.
+   - Automatically forwards any new file dropped in that folder to your Telegram Bot.
+
+================================================================================
+                                HOW TO USE
+================================================================================
+
+1. Run ComboCraft.exe.
+2. Go to the "KEYWORDS" tab and add the sites you want to target (e.g., netflix.com, paypal.com).
+3. Go back to "CONSOLE", select your "Target Directory" containing your logs/combos.
+4. Select your Mode (e.g., User:Pass).
+5. Click "EXECUTE ⚡".
+6. Results will be saved in the "Result" folder created next to the tool.
+
+================================================================================
